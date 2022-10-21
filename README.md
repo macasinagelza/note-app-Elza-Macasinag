@@ -2,18 +2,18 @@
 
  # **NOTE APP**
 
- ## **Add module**
+* ## **Add module**
 
  _npm start add "id" "title" "body"_
 
- ## **Delete module**
+* ## **Delete module**
 
  _npm start delete "id"_
 
- ## **Read module**
+* ## **Read module**
 
  _npm start read_
 
- ## **Update module**
+* ## **Update module**
 
  _npm start update "id" "title" "body"_
